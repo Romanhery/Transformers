@@ -5,7 +5,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-16 text-center">
         <h1 className="text-5xl font-bold mb-4">The Transformer Archive</h1>
         <p className="text-xl text-gray-300 mb-8">
-          A journey through the history of the architecture that changed AI.
+          How Transformers Revolutionized Artificial Intelligence
         </p>
         <nav className="flex justify-center gap-6">
           <a href="/timeline" className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg">Interactive Timeline</a>
